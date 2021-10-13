@@ -1,0 +1,14 @@
+{
+  "name": "aut-pro-cristhian-arispe",
+  "version": "1.0.0",
+  "description": "test automation - Task 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "project-name-generator": "^2.1.9"
+  }
+}
